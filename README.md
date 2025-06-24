@@ -27,6 +27,11 @@ The dataset contains 1,465 records and 16 fields, including:
   - Data Visualization
 - GitHub for version control and portfolio hosting
 
+## Dashboard Highlights
+![dashboard](https://github.com/user-attachments/assets/8ec252ba-71cb-4e1a-8440-72173fdc61f4)
+(visualizations/dashboard_screenshot.png)
+
+
 
 
 
